@@ -93,7 +93,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Ayushi Roully" />
                     <br />
                     <sub>
-                        <b>Navneet Patel</b>
+                        <b>Ayushi Roully</b>
                     </sub>
                 </a>
             </td>
